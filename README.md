@@ -5,7 +5,6 @@ This repository shows the TensorFlow Lite and TensorRT model conversion and infe
 
 <p align="center">
 <img src="https://github.com/soumik12345/MIRNet/raw/master/assets/lol_results.gif"</img><br>
-<small><a href="https://github.com/soumik12345/MIRNet/blob/master/assets/lol_results.gif">Source</a></small>
 </p>
 
 Model training code and pre-trained weights are provided by **Soumik** through [this repository](https://github.com/soumik12345/MIRNet/). 
